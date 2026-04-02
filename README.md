@@ -63,13 +63,6 @@
   <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" alt="scikit-learn" />
 </p>
 
-## GitHub Snapshot
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=BhuwanSingh248&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" alt="GitHub stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BhuwanSingh248&layout=compact&theme=transparent&hide_border=true" alt="Top languages" />
-</p>
-
 ## Contribution Animation
 
 <p align="center">
